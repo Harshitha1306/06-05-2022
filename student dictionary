@@ -1,0 +1,3 @@
+studict={"sno":250,"sname":"pranav","gender":"male","result":"A"}
+print(studict)
+print(studict.get("sno"))
