@@ -1,0 +1,3 @@
+empdict={"empno":6,"empname":"praseeda","empdesig":"eluru","doj":'13-1-2017',"salary":50000}
+print(empdict)
+print(empdict.get("empno"))
